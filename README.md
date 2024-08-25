@@ -14,7 +14,7 @@ On my GitHub, you'll discover a collection of projects that showcase my growth a
 Here's a taste of what I've been working on:
 - **Institute of Data Mini-Projects** 🤖: A series of projects completed during my study at the Institute of Data,
 where I applied machine learning techniques to various datasets, from classifying types of crime to predicting graduation rates.
-- **Spotify Data Analysis** 🎵📈 (coming soon): My Capstone project which I am currently completing focuses on analysing trends and patterns in Spotify's vast music library.
+- **Spot The Hits! Predicting the Next Viral Song Based on Audio Attributes: Insights from the Top Songs on Spotify in 2024** 🎵📈: My Capstone project for the Institute of Data aims to answer to what extent audio features of songs contribute to a track's popularity on Spotify, and a predictive model was built to predict the potential popularity of songs based on this.
 
 And more projects to come!
 
